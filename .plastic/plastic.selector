@@ -1,4 +1,0 @@
-repository "IMAX@kris_enteryes@cloud"
-  path "/"
-    br "/main"
-    co "/main"
