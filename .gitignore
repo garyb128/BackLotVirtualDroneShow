@@ -7,7 +7,7 @@
 [Ll]ogs/
 [Mm]emoryCaptures/
 
-# Unity auto-generated file
+# Unity auto-generated files
 *.csproj
 *.unityproj
 *.sln
@@ -23,6 +23,12 @@
 
 # Avoid committing large cache files
 [Ll]ibrary/PackageCache/
+
+# Plastic SCM directories
+*.plastic/
+{hidden}/
+*.plastic.meta
+plastic-temp/
 
 # Visual Studio Code workspace and project settings (optional)
 .vscode/
